@@ -21,9 +21,9 @@ public class Main {
         System.out.println("your average is  "+ average);
 
         if (average <75) {
-            System.out.println("HAHAHAHA angas ng grades ya");
+            System.out.println("Unfortunately you failed");
         } else {
-            System.out.println("Congrats bossing, pasado ka");
+            System.out.println("Congrats youve passed");
         }
     }
 }
